@@ -89,8 +89,6 @@ multivolumefile==0.2.3
 
 mutagen==1.46.0
 
-
-
 outcome==1.2.0
 
 pathlib==1.0.1
@@ -174,8 +172,6 @@ urllib3==1.26.13
 user-agent==0.1.10
 
 wcwidth==0.2.5
-
-websockets==10.4
 
 yarl==1.8.1
 youtube-dl==2021.12.17
